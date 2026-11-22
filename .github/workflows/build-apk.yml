@@ -1,6 +1,6 @@
 YAML
 
-name: Build Android APK
+name: My video downloader
 
 on:
   workflow_dispatch:
